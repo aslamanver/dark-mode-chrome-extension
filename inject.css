@@ -1,0 +1,11 @@
+html {
+    transition: all 0.1s linear;
+}
+
+.dk-mode {
+    filter: invert(100%) hue-rotate(180deg);
+}
+
+.dk-mode img {
+    filter: invert(100%) hue-rotate(180deg);
+}
